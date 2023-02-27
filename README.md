@@ -8,8 +8,8 @@ My name is Anton Bizyaev and I've been passionate about doing data analysis sinc
 
 Stack:  
 * **Python**: pandas, numpy, matplotlib, seaborn, sklearn, scipy, statsmodels
-* **Statistics**: A/B tests, z-score, t-test, confifence interval, p-value, ANOVA
-* **Machine learning**: linear regression, logistic regression, decision tree classifier, random forest, boosting
+* **Statistics**: A/B tests, z-score, t-test, confidence interval, p-value, bootstrap
+* **Machine learning**: linear regression, logistic regression, decision tree classifier, random forest, gradient boosting
 * **Unsupervised learning**: k-means clustering, principal component analysis
 * **Data visualization**: scatterplot, histogram, line plot, box-and-whiskers, pie chart
 * **SQL**: window functions, subqueries, join
