@@ -16,10 +16,10 @@ Stack:
 * **R**: dplyr, ggplot2, psych
 * **Software**: PowerBI, Tableau, Excel, IBM SPSS, PowerPoint  
 
-Some of my projects include:  
-1. Finding factors that determine conversion from a trial online English class into a purchase (real world business problem)  
-<a href='https://github.com/AntonBizyaev/online_ed_conversion'>online_ed_conversion</a>
-2. Investigation of relationship between transport and economic growth (published in a scientific journal)  
-<a href='https://github.com/AntonBizyaev/transport_vs_economy'>transport_vs_economy</a>
-3. Analysis of futures (an odd job)  
-<a href='https://github.com/AntonBizyaev/index_lag_analysis'>index_lag_analysis</a>
+Some of my projects include:
+
+|Description|Keywords|Link|
+|-------|----|-----|
+|1. Finding factors that determine conversion from a trial online English class into a purchase (real world business problem)|conversion rate, A/B tests, product analysis, group comparison|<a href='https://github.com/AntonBizyaev/online_ed_conversion'>online_ed_conversion</a>|
+|2. Investigation of relationship between transport and economic growth (published in a scientific journal)|PCA, k-means, linear regression, international statistics|<a href='https://github.com/AntonBizyaev/transport_vs_economy'>transport_vs_economy</a>|
+|3. Analysis of futures (an odd job)|correlation analysis, data visualization, time series, financial market|<a href='https://github.com/AntonBizyaev/index_lag_analysis'>index_lag_analysis</a>|
