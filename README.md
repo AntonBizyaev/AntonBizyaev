@@ -3,7 +3,7 @@ Hi everyone,
 My name is Anton Bizyaev and I've been passionate about doing data analysis since 2019. I have working experience at Russian Central Bank, top-1 university of Russia, and Russian Academy of Science. Experienced with Python, SQL and Excel. I am used to solving broadly defined problems in changing environments, which require teamwork and non-standard approaches to solve. I love it most when data facilitates better decision making and I'm always open for a creative collaboration.  
 
 **My portfolio:** <a href='https://github.com/AntonBizyaev/data_analysis_portfolio'>link</a>  
-**Available for hire:** True  
+**Available for hire:** False    
 **Email:** abizyaev2022@gmail.com  
 
 Stack:  
